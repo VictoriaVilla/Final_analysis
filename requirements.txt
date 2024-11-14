@@ -1,0 +1,17 @@
+PyQt5
+PyQtWebEngine
+numpy
+pandas
+geopy
+tabulate
+pypdf
+folium
+matplotlib
+scikit-learn
+tabulate
+prettytable
+streamlit
+streamlit_folium
+selenium
+pyppeteer
+reportlab
